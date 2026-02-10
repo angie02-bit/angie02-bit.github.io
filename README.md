@@ -21,11 +21,4 @@ I remember my grandma telling me her life as a kid in a developing country. I as
     <img src="img/image101.jpg" />
 </html>
 
-<html>
-  <h1>"In Plato's Cave"</h1>
-   
-    
-<p> </p>
-</html>
-
 
